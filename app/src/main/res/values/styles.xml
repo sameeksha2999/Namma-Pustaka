@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.NammaPustaka" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/np_gold</item>
+        <item name="android:navigationBarColor">@color/np_green_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/np_green_dark</item>
+    </style>
+</resources>
