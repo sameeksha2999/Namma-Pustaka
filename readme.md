@@ -27,7 +27,7 @@
 **Tagline:** Smart Library Assistant for Rural Schools
 
 ## 1.2 Problem Statement
-Rural schools in India lack a proper library management system. Physical registers are used to track borrowed books, which leads to:
+Rural schools in India lack a  proper library management system. Physical registers are used to track borrowed books, which leads to:
 - Lost records
 - No overdue tracking
 - No reading culture encouragement
